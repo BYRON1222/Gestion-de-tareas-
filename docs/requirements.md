@@ -77,3 +77,15 @@ Prioridad: Could
 
 ### US08 - Compartir tareas con docente
 Prioridad: Won't
+
+---
+
+## MVP Rationale
+
+El MVP se enfocó en las funcionalidades esenciales para que el sistema cumpla su objetivo principal: organizar tareas académicas.
+
+Las historias clasificadas como Must permiten crear, editar y marcar tareas como completadas, que son las acciones básicas necesarias para gestionar pendientes.
+
+Las historias Should y Could agregan valor adicional, pero no son indispensables en la primera versión.
+
+La historia Won’t queda fuera del alcance actual para mantener el enfoque en una entrega simple y funcional.
