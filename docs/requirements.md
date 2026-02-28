@@ -2,7 +2,7 @@
 
 ## Backlog
 Link del tablero (Trello/Jira/GitHub Projects):
-(AQUÍ VAS A PEGAR EL LINK CUANDO LO CREEMOS)
+(https://trello.com/b/QYYFeER6/sistema-de-gestion-de-tareas-backlog)
 
 ---
 
