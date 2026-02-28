@@ -13,7 +13,6 @@ Prioridad: Must
 
 Como estudiante quiero crear una tarea para organizar mis pendientes.
 
-**Criterios de aceptación (Given/When/Then)**
 
 Given el estudiante está en el sistema  
 When ingresa título y descripción de la tarea  
@@ -29,8 +28,6 @@ Then la tarea aparece en estado pendiente
 Prioridad: Must
 
 Como estudiante quiero editar una tarea para actualizar información.
-
-**Criterios de aceptación (Given/When/Then)**
 
 Given existe una tarea registrada  
 When el estudiante modifica la información  
